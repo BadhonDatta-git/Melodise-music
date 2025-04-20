@@ -1,3 +1,5 @@
+//Written by Khandaker Parvez(pritam)
+
 <?php
 // Include database connection file
 include('connect.php');
