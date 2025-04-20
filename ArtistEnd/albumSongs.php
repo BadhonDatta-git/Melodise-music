@@ -1,3 +1,4 @@
+//Written by Khandaker Parvez(pritam)
 <?php
 session_start();
 if (!isset($_SESSION['artistname'])) {

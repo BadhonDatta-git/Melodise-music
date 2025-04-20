@@ -1,3 +1,5 @@
+//Written by Khandaker Parvez(pritam)
+
 <?php
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
